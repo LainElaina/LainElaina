@@ -12,14 +12,21 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
+      
+      # 👇 新增：这一步至关重要！先建好房，才能住人
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - uses: lowlighter/metrics@latest
         with:
           filename: dist/isometric-calendar.svg
+          # 确保这里的 Token 是你之前在 Settings -> Secrets 里存好的那个
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           user: LainElaina
+          
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
