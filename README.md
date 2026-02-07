@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffffff,b8e994,78e08f,ffffff&height=220&section=header&text=LainElaina&fontSize=70&fontAlign=50&fontColor=38ada9&desc=The%20Ashen%20Witch%20%7C%20Wandering%20Developer&descAlign=50&descSize=20&animation=fadeIn&descColor=78e08f" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffffff,b8e994,78e08f,ffffff&height=220&section=header&text=LainElaina&fontSize=70&fontAlign=50&fontColor=38ada9&desc=The%20Ashen%20Witch%20%7C%20Wandering%20Developer&descAlign=50&descSize=20&animation=fadeIn&descColor=78e08f&bgColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
