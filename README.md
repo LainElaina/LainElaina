@@ -16,18 +16,7 @@
 
 <br/>
 
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td valign="top" width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=LainElaina&show_icons=true&hide_border=true&bg_color=ffffff&title_color=38ada9&icon_color=ffd700&text_color=5c5c5c&rank_icon=github" width="100%" />
-      </td>
-      <td valign="top" width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LainElaina&layout=compact&hide_border=true&bg_color=ffffff&title_color=38ada9&text_color=5c5c5c&langs_count=6" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LainElaina&hide_border=true&background=ffffff&ring=38ada9&fire=b8e994&currStreakNum=5c5c5c&currStreakLabel=38ada9&sideNums=5c5c5c&sideLabels=38ada9&dates=b8e994" width="100%" />
