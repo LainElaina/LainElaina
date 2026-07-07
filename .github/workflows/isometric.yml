@@ -11,7 +11,7 @@ jobs:
     permissions: 
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       # 👇 新增：这一步至关重要！先建好房，才能住人
       - name: Create dist directory
@@ -27,7 +27,7 @@ jobs:
           plugin_isocalendar_duration: full-year
           user: LainElaina
           
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
